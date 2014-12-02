@@ -1,5 +1,6 @@
 <?php
 
+// another change
 // test message
 
 // запрет прямого обращения
