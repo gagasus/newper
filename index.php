@@ -2,6 +2,7 @@
 
 // another change
 // test message
+// hello
 
 // запрет прямого обращения
 define('coursework', TRUE);
