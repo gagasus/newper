@@ -1,6 +1,7 @@
 <?php
 
 // test message
+// in test 
 
 // запрет прямого обращения
 define('coursework', TRUE);
